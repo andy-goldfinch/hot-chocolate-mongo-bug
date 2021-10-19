@@ -4,6 +4,6 @@ This is a repo to reproduce a Hot Chocolate bug when defining a filter type that
 
 # Setup
 
-1. Start mongo using `docker-compose up`
+1. Start mongo using `docker-compose up` inside the Demo folder
 2. Run the Demo project
 3. Attempt to fetch the graphql schema from http://localhost:11045/graphql/
